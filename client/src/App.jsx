@@ -3,7 +3,7 @@ import React from 'react';
 import './index.css';
 
 // Import your new component
-// import MyComponent from './About';
+import MyComponent from './About';
 
 // Define the main App component
 function App() {
